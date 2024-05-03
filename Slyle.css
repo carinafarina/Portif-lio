@@ -7,7 +7,7 @@
 }
 
 .background{
-    background-image: url(backgroud.png);
+    background-image: url(./Apresentacao/img/backgroud.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -274,4 +274,9 @@ footer p{
     color: #f9004d;
     top: 35px;
     font-size: 14px;
+}
+.Redes-Sociais img{
+    width: 35px;
+    border-radius: 50px;
+    
 }
